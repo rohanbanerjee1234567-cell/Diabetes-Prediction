@@ -73,6 +73,7 @@ Example input:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/rohanbanerjee1234567-cell/Diabetes-Prediction.git>
+   ```
 2. pip install -r requirements.txt
 3. jupyter notebook DiabetesPrediction_rbmlprjct.ipynb
