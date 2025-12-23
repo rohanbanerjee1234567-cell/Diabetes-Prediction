@@ -62,7 +62,8 @@ The notebook includes a predictive system that accepts new patient data, reshape
 Example input:
 ```python
 (3, 158, 76, 36, 245, 31.6, 0.851, 28)
-
+```
+---
 ## Results
 - The trained SVM classifier achieves reliable accuracy on unseen data.
 - The project successfully demonstrates an end-to-end machine learning workflow suitable for beginner to intermediate practitioners.
