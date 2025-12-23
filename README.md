@@ -65,7 +65,7 @@ Example input:
 ```
 ---
 ## Results
-- The trained SVM classifier achieves reliable accuracy on unseen data.
+- The trained SVM classifier achieves reliable accuracy on unseen data. (Above 75% accuracy for both Training and Testing)
 - The project successfully demonstrates an end-to-end machine learning workflow suitable for beginner to intermediate practitioners.
 
 ---
